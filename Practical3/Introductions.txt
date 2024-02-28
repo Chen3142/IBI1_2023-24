@@ -1,5 +1,5 @@
 Hello. 
-My name is Chen.
-I like drinking juice and eating chocolate biscuits.
-I am enjoying studying IBI1 in person again 
-I am happy that I can push my repo from Visual Studio Code to GitHub
+My name is Chen Shutong.
+I like drinking juice and eating French fries.
+I am happy to study at ZJE and enjoying studying IBI1. 
+I am happy that I can push my repo from Visual Studio Code to GitHub.
