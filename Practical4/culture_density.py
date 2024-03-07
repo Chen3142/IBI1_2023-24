@@ -12,4 +12,5 @@ while c <= 90:
         print("There are",d-1,"days before the cell density crosses 90%. (The density goes over 90% at day",d,")")
         print("Taking the reality into account, I must be back at day",d-1,"and have a holiday for",d-2,"days.")
         break
-#The cell density goes over 90% on day 6 so I must be back at day 5 and I have a holiday for 4 days.
+#There are 5 days before the cell density crosses 90%. (The density goes over 90% at day 6 )
+#Taking the reality into account, I must be back at day 5 and have a holiday for 4 days.
