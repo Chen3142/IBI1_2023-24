@@ -1,0 +1,3 @@
+question: plot a bar chart of the Canada's DLAYs over time.
+line number: start at the 45th line
+discussion: According to the chart, the DALYs of Canada has decreased slow since 1990. But until 2010, the DALYs of Canada gradually leveling off.
