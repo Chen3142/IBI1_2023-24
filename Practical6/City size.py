@@ -3,17 +3,17 @@ import matplotlib.pyplot as plt
 
 #make two dictionaries to record data
 uk_cities={
+    'Stirling':0.04,
     'Edinburgh':0.56,
     'Glasgow':0.62,
-    'Stirling':0.04,
     'London':9.7
 }
 
 china_cities={
     'Haining':0.58,
     'Hangzhou':8.4,
-    'Shanghai':29.9,
-    'Beijing':22.2
+    'Beijing':22.2,
+    'Shanghai':29.9
 }
 #print the dictionary    
 print(uk_cities,china_cities)
