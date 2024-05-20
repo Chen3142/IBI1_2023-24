@@ -1,0 +1,16 @@
+compare SLC6A4_HUMAN with SLC6A4_MOUSE
+BLOSUM score: 3137.0
+percentage identity: 92.53968253968254 %
+
+compare SLC6A4_HUMAN with SLC6A4_RAT
+BLOSUM score: 3107.0
+percentage identity: 91.74603174603175 %
+
+compare SLC6A4_MOUSE with SLC6A4_RAT
+BLOSUM score: 3261.0
+percentage identity: 96.82539682539682 %
+
+The sequences of rat and mouse are most closely related.
+Because these two species has the highest BLOSUM score and percentage identity.
+
+Mouse is a better model organism for human based on the data analysed here because higher BLOSUM score and percentage identity.
