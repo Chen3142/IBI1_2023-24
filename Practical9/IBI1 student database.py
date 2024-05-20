@@ -1,3 +1,4 @@
+#creat class
 class Student:
     def __init__(self, name, major, code_portfolio_score, group_project_score, exam_score):
         self.name = name
